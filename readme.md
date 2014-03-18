@@ -47,6 +47,7 @@ Personal list of resources for learning Laravel (elegant PHP framework), if you 
 ## Other collections
 * List from Laravel forums: http://forums.laravel.io/viewtopic.php?id=859
 * Laravel Learning Resources: http://lorib.me/2013/03/04/laravel-learning-resources/
+* Laravel Cheat Sheet: http://cheats.jesse-obrien.ca/#
 
 
 ##Other resources
