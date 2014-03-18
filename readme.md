@@ -44,6 +44,7 @@ Personal list of resources for learning Laravel (elegant PHP framework), if you 
 * Build Your First Admin Bundle for Laravel: http://net.tutsplus.com/tutorials/php/build-your-first-admin-bundle-for-laravel/?search_index=6
 * The Essentials of Creating Laravel Bundles: http://net.tutsplus.com/tutorials/php/the-essentials-of-creating-laravel-bundles/?search_index=5
 * Laravel 4: A Start at a RESTful API: http://net.tutsplus.com/tutorials/php/laravel-4-a-start-at-a-restful-api/?search_index=4
+* Using Grunt + Bower With Laravel and bootstrap http://blog.elenakolevska.com/using-grunt-with-laravel-and-bootstrap/
 
 
 ## Other collections
